@@ -1,5 +1,5 @@
 Мой мир огромен, а я так скромен
 
-[Notes](https://georgsius.github.io/notes/) / [Wishlist](https://georgsius.github.io/wishlist/)
+[Notes](https://georgsius.github.io/notes/) / [Wishlist](https://georgsius.github.io/notes/wishlist.html)
 
 [Status](https://georgsius.github.io/status/)
